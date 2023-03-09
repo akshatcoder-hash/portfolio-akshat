@@ -5,44 +5,44 @@ export const info = {
   about: `a full-stack web3 developer!`,
   intro: `i drink coffee ☕ and ship some dope stuff 🚀`,
 
-  experience: [
-    {
-      name: "InterNative Labs, LLC",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "Apr 2022",
-      endDate: "Present",
-      description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
-      ],
-    },
+  // experience: [
+  //   {
+  //     name: "shastra-os 🧭",
+  //     location: "remote",
+  //     startDate: "jan 2022",
+  //     endDate: "Present",
+  //     description: [
+  //       "- working to build my own powerful and decentralized desktop os on top of arch linux",
+  //       "- pre-release version gained over 800 downloads on sourceforge and osdn",
+  //     ],
+  //   },
 
-    {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
-      startDate: "Nov 2020",
-      endDate: "Apr 2022",
-      description: [
-        "✓ Developing code in accordance with appropriate design and architectural rules",
-        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
-        "✓ Help and training of other colleagues",
-        "✓ Others tasks connected to the nature of the job",
-        "✓ Code Improvements and Refactoring ",
-        "✓ Best Practices and Rules Maintainer",
-      ],
-    },
+  //   {
+  //     name: "Coupon Approve (Remote)",
+  //     location: "Amsterdam, North Holland, Netherlands",
+  //     startDate: "Nov 2020",
+  //     endDate: "Apr 2022",
+  //     description: [
+  //       "✓ Developing code in accordance with appropriate design and architectural rules",
+  //       "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
+  //       "✓ Help and training of other colleagues",
+  //       "✓ Others tasks connected to the nature of the job",
+  //       "✓ Code Improvements and Refactoring ",
+  //       "✓ Best Practices and Rules Maintainer",
+  //     ],
+  //   },
 
-    {
-      name: "Interns Pakistan",
-      location: "Pakistan",
-      startDate: "Oct 2020",
-      endDate: "Nov 2020",
-      description: [
-        "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-        "The internship track is built by an industry expert that let develop the skills in the areas most important ",
-      ],
-    },
-  ],
+  //   {
+  //     name: "Interns Pakistan",
+  //     location: "Pakistan",
+  //     startDate: "Oct 2020",
+  //     endDate: "Nov 2020",
+  //     description: [
+  //       "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
+  //       "The internship track is built by an industry expert that let develop the skills in the areas most important ",
+  //     ],
+  //   },
+  // ],
 
   education: [
     {

@@ -3,7 +3,7 @@ export const info = {
   name: "akshat sharma",
   jobDescription: "Full Stack Web3 Developer",
   about: `a full-stack web3 developer!`,
-  intro: `i drink coffee ☕ and ship some dope shit 🚀.`,
+  intro: `i drink coffee ☕ and ship some dope stuff 🚀`,
 
   experience: [
     {

@@ -2,8 +2,8 @@ export const info = {
   baseUrl: "https://akshat.shastraos.co",
   name: "akshat sharma",
   jobDescription: "Full Stack Web3 Developer",
-  about: `a full-stack web3 developer!`,
-  intro: `i drink coffee ☕ and ship some dope stuff 🚀`,
+  about: `i drink coffee ☕ and ship some dope stuff 🚀`,
+  intro: `a full-stack web3 developer 🌐`,
 
   // experience: [
   //   {
@@ -44,38 +44,37 @@ export const info = {
   //   },
   // ],
 
-  education: [
-    {
-      name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2019",
-      endDate: "2022",
-      description: [
-        "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
-      ],
-    },
-    {
-      name: "Govt. Degree Boys College Buffer Zone",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2018",
-      endDate: "2020",
-      description: ["Intermediate, Pre-Engineering"],
-    },
-    {
-      name: "Ghazi Foundation Schools & Colleges",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2016",
-      endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
-    },
-  ],
+  // education: [
+  //   {
+  //     name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
+  //     location: "Karāchi, Sindh, Pakistan",
+  //     startDate: "2019",
+  //     endDate: "2022",
+  //     description: [
+  //       "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
+  //     ],
+  //   },
+  //   {
+  //     name: "Govt. Degree Boys College Buffer Zone",
+  //     location: "Karāchi, Sindh, Pakistan",
+  //     startDate: "2018",
+  //     endDate: "2020",
+  //     description: ["Intermediate, Pre-Engineering"],
+  //   },
+  //   {
+  //     name: "Ghazi Foundation Schools & Colleges",
+  //     location: "Karāchi, Sindh, Pakistan",
+  //     startDate: "2016",
+  //     endDate: "2018",
+  //     description: ["Matriculation,  Computer Science"],
+  //   },
+  // ],
 
   socialMedia: {
-    facebook: "https://www.facebook.com/profile.php?id=100022899849583",
-    twitter: "https://twitter.com/Uzzii_21",
-    github: "https://github.com/uzzii-21",
-    email: "uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    twitter: "https://twitter.com/akshatwts",
+    github: "https://github.com/akshatcoder-hash",
+    email: "info@akshatsharma.co",
+    linkedin: "https://www.linkedin.com/in/akshatcoder/",
   },
 
   projects: [

@@ -1,9 +1,8 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
+  baseUrl: "https://akshat.shastraos.co",
   name: "akshat sharma",
   jobDescription: "Full Stack Web3 Developer",
   about: `a full-stack web3 developer!`,
-
   intro: `i drink coffee ☕ and ship some dope shit 🚀.`,
 
   experience: [

@@ -3,7 +3,7 @@ export const info = {
   name: "akshat sharma",
   jobDescription: "Full Stack Web3 Developer",
   about: `a full-stack web3 developer 🌐 from 🇮🇳`,
-  intro: `i drink coffee ☕ and ship some dope shit 🚀`,
+  intro: `i sip coffee ☕ ship some dope shit 🚀 and contribute to open source 💚`,
 
   socialMedia: {
     twitter: "https://twitter.com/akshatwts",
@@ -25,13 +25,13 @@ export const info = {
       isFeatured: true,
       thumbnail: "/assets/images/solpe.webp",
       githubUrl: "https://github.com/Sol-Pe/",
-      liveUrl: "https://shastraos.org/",
+      liveUrl: "https://solpe.select/",
     },
     {
       title: "solway",
       isFeatured: true,
       thumbnail: "/assets/images/solway.webp",
-      githubUrl: "https://github.com/akshatcoder-hash/",
+      githubUrl: "https://github.com/Solway-Shastra/",
       liveUrl: "https://solway.select/",
     },
     {
@@ -39,7 +39,7 @@ export const info = {
       isFeatured: true,
       thumbnail: "/assets/images/ens.webp",
       githubUrl: "https://github.com/akshatcoder-hash/FOSSCU-ENS",
-      liveUrl: "https://shastraos.org/",
+      liveUrl: "https://github.com/akshatcoder-hash/FOSSCU-ENS/",
     }, 
   ],
 };

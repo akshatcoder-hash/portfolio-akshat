@@ -3,7 +3,7 @@ export const info = {
   name: "akshat sharma",
   jobDescription: "Full Stack Web3 Developer",
   about: `a full-stack web3 developer 🌐`,
-  intro: `i drink coffee ☕ and ship some dope stuff 🚀`,
+  intro: `i drink coffee ☕ and ship some dope shit 🚀`,
 
   // experience: [
   //   {
@@ -79,11 +79,12 @@ export const info = {
 
   projects: [
     {
-      title: "Astro Portfolio",
+      title: "shastra os",
       isFeatured: true,
-      thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+      thumbnail: "/assets/images/shastraos.webp",
+      githubUrl: "https://github.com/ShastraOS/",
+      liveUrl: "https://shastraos.org/",
     },
+    
   ],
 };
